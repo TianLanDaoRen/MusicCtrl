@@ -8,8 +8,9 @@ namespace MusicCtrl
 	public class MusicCtrl : MainPlugin
 	{
 		public MCSetting Settings;
-		MenuItem menuItem;
-		MCController controller;
+
+		private MenuItem menuItem;
+		private MCController controller;
 
 		public MusicCtrl(IMainWindow mainwin) : base(mainwin)
 		{
@@ -45,13 +46,9 @@ namespace MusicCtrl
 
 			// Get show/hide status
 			if (Settings.ShowWindow == 1)
-			{
 				controller.Show();
-			}
 			else
-			{
 				controller.Hide();
-			}
 		}
 
 		public override void LoadDIY()
