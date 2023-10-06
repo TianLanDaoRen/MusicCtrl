@@ -1,8 +1,0 @@
-D:\Documents\Workspaces\CsWorkspace\MusicCtrl\obj\Debug\MusicCtrl.csproj.AssemblyReference.cache
-D:\Documents\Workspaces\CsWorkspace\MusicCtrl\obj\Debug\MCController.baml
-D:\Documents\Workspaces\CsWorkspace\MusicCtrl\obj\Debug\MCController.g.cs
-D:\Documents\Workspaces\CsWorkspace\MusicCtrl\obj\Debug\MusicCtrl_MarkupCompile.cache
-D:\Documents\Workspaces\CsWorkspace\MusicCtrl\obj\Debug\MusicCtrl.g.resources
-D:\Documents\Workspaces\CsWorkspace\MusicCtrl\obj\Debug\MusicCtrl.Properties.Resources.resources
-D:\Documents\Workspaces\CsWorkspace\MusicCtrl\obj\Debug\MusicCtrl.csproj.GenerateResource.cache
-D:\Documents\Workspaces\CsWorkspace\MusicCtrl\obj\Debug\MusicCtrl.csproj.CoreCompileInputs.cache
